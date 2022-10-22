@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, machine learning and web development.
 - 🌱 I’m a beginner in programming and exploring this field.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/saurabh-kumar-53ba5a252/
+- 📫 How to reach me : 
 
 
 <!---
