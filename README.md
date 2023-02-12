@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @srbh001
 - 👀 I’m interested in AI, machine learning and web development.
 - 🌱 I’m a beginner in programming and exploring this field.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me : 
+
 
 
 <!---
