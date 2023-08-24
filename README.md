@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Saurabh Kumar. 
-
-<!---
-- 👀 I’m interested in AI, machine learning and web development.
-- 🌱 I’m a beginner in programming and exploring this field.
---->
+Passionate about Web Development and AI/ML Enthusiast | Pursuing Electrical Engineering at IIT Bombay 🌐🤖
+- 👋 Hi, I’m Saurabh Kumar.
+- ⚡️ Currently, I'm pursuing my passion for technology through my studies in Electrical Engineering, where I'm gaining insights into the foundational principles that power modern innovations.
 
 
-<!---
-srbh001/srbh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
